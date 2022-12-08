@@ -1,5 +1,5 @@
 ***********
-Peanut Butter and Jelly, an Overview
+# Peanut Butter and Jelly, an Overview
 ***********
 
 A peanut butter and jelly sandwich is the quintessential, love it or hate it staple of American childhood lunches. It is a culture icon. But where did it come from, and what is it really?
@@ -7,14 +7,15 @@ In 1901, Julia Davis Chandler wrote in The Boston Cooking School Magazine of Cul
 link: https://babel.hathitrust.org/cgi/pt?id=mdp.39015036669904&view=1up&seq=200&q1=peanut
 
 ***********
-Ingredients
+## Ingredients
 ***********
 
 Sliced bread.
 Attribution: "Sliced fresh bread" available at https://foto.wuestenigel.com/sliced-fresh-bread/ by Marco Verch
 licensed under CC by 2.0, https://creativecommons.org/licenses/by/2.0/
 
-Peanut butter.
+Peanut butter. bla
+
 Attribution: "Peanut Butter" available at https://www.flickr.com/photos/niaid/25419964715 by NIAID
 licensed under CC by 2.0 https://creativecommons.org/licenses/by/2.0/
 
@@ -24,7 +25,7 @@ licensed under CC by 2.0 https://creativecommons.org/licenses/by/2.0/
 
 
 ***********
-Breads
+## Breads
 ***********
 
 My favorite types of bread are itemized this un-ordered list:
@@ -34,9 +35,10 @@ My favorite types of bread are itemized this un-ordered list:
 - sourdough bread
 - bagels, particularly
 
-  - everything bagels
-  - sesame seed bagels
-  - blueberry bagels
+  -  everything bagels
+  -   sesame seed bagels
+  1.  dfetgtgr
+  2.  blueberry bagels
 
 ---
 
@@ -47,10 +49,10 @@ Less fluffy breads that can still be used for sandwiches, enumerated from my mos
 3. matzah
 
 ***********
-Peanut and Other Butters
+## Peanut and Other Butters
 ***********
 
-Peanut butter is not the only type of "butter" you can use:
+### Peanut butter is not the only type of "butter" you can use:
 
 
 Peanut Butter: Traditional, but peanuts are a common allergy.
